@@ -32,10 +32,15 @@ The messages table stores information about the messages sent in chats. It has t
 ## Entity Relationship Diagram (ERD)
 
 ERD diagram
+
 <a href="https://ibb.co/vXDYdds"><img src="https://i.ibb.co/MB96118/diagram.png" alt="diagram" border="0"></a>
+
+
 View
 
+
 <a href="https://ibb.co/vLd7PDm"><img src="https://i.ibb.co/44S6TJM/view.png" alt="view" border="0"></a>
+
 
 A view has been created to show the sender name, receiver name, and messages sent between them, along with time stamps. The SQL code for the view is as follows:
 
